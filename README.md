@@ -1,12 +1,14 @@
-# willYouMarryme
-Just a fun website asking you whether you would like to marry me or not.
+# Will You Marry Me (In Theory)
 
-Try it out!! [Click here](https://sujinphilip.github.io/willYouMarryme/)
+This website was lovingly engineered by Ali to expose one simple truth:
 
-So will you marry me? Yes 🥹 or No 😏 
-[![repository-open-graph-template.jpg](https://i.postimg.cc/X74JVs3G/repository-open-graph-template.jpg)](https://postimg.cc/HjvHz4rd)
+👉 Nour is not allowed to say “no”. 🦭
+Ever.  
+Under any circumstances.  
+At all.
 
-Try saying 'no' 😏 
+Try the site and test your luck 😭👇  
+https://aliannan99.github.io/Will-you-marry-me-in-theory-/
 
-[![repository-open-graph-template-1.jpg](https://i.postimg.cc/nVvrby8f/repository-open-graph-template-1.jpg)](https://postimg.cc/Btn42wQm)
-
+If you manage to press “No”, you win a cookie.  
+(Just kidding, the button runs away.)
